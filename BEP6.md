@@ -27,7 +27,7 @@ BEP-6 Proposal describes functionality to time-lock tokens on the Binance Chain.
 
 - TimeUnlock: TimeUnlock will claim the locked tokens back when the lock time specified is passed.
 
-- TimeRelock: TimeRelock will extend lock time and increase amount of locked tokens of a specific lock record.
+- TimeRelock: TimeRelock will extend lock time, increase amount of locked tokens or modify description of a specific lock record.
 
 - QueryTimeLockRecords: QueryTimeLockRecords will query all lock records of a specific address.
 
